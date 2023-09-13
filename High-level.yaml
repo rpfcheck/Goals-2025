@@ -1,0 +1,20 @@
+---
+# An employee record
+name: Betal Ozkan
+job: Managing Consultant
+employed: True
+Network:
+  - BGP
+  - Multicast
+  - VXLAN
+  - Design
+languages:
+  python: Advanced
+Devops:
+  - Coding
+  - Automation
+  - Multi-Vendor
+Education: |
+  AWS
+  Network Security
+  NetDevOPS
