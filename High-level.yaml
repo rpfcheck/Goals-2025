@@ -6,7 +6,8 @@ employed: True
 Network:
   - BGP
   - Multicast
-  - VXLAN
+  - VXLAN/EVPN
+  - ACI/Apstra
   - Network Design
 languages:
   python: Advanced
