@@ -7,14 +7,22 @@ Network:
   - BGP
   - Multicast
   - VXLAN
-  - Design
+  - Network Design
 languages:
   python: Advanced
 Devops:
-  - Coding
-  - Automation
+  - CI/CD
+  - YAML/JSON
+  - Ansible
+  - Infra. Automation
   - Multi-Vendor
 Education: |
   AWS
   Network Security
   NetDevOPS
+Cert Goals: | 
+  CCIE-SEC
+  CKAD
+  CKA
+  JNCIE-DC
+  NSE8
