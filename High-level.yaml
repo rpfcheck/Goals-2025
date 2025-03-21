@@ -1,29 +1,23 @@
 ---
 # An employee record
 name: Betal Ozkan
-job: Managing Consultant
+job: Senior TAM
 employed: True
-Network:
-  - BGP
-  - Multicast
-  - VXLAN/EVPN
-  - ACI/Apstra
-  - Network Design
 languages:
   python: Advanced
+  GraphQL: intermediate
 Devops:
   - CI/CD
   - YAML/JSON
   - Ansible
-  - Infra. Automation
-  - Multi-Vendor
+  - Git
+  - Telemetry
+  - containers
 Education: |
-  AWS
-  Network Security
-  NetDevOPS
+  Oracle Cloud
+  More Azure
 Cert Goals: | 
-  CCIE-SEC
   CKAD
   CKA
-  JNCIE-DC
-  NSE8
+  RHCE
+  Terraform-Pro
